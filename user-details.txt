@@ -9,3 +9,4 @@ feature change started
 
 feature change 3 branch
 feature3
+change 1
