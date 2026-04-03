@@ -6,3 +6,6 @@ create feature 1 changes
 login and logout
 create feature 2 changes
 feature change started
+
+feature change 3 branch
+feature3
